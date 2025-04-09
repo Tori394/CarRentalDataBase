@@ -3,13 +3,21 @@ Authors: Dyląg Matylda, Herczyk Wiktoria, Huza Martyna
 Stacjonarna wypożyczalnia samochodów
 
 Funkcje bazy
+
 • Zarządzanie wypożyczaniem samochodów (rezerwacja, wynajem)
+
 • Monitorowanie stanu aut (przeglądy)
+
 • Generowanie faktur
+
 • Zarządzanie historią wypożyczeń
+
 • Rejestr dodatkowych udogodnień i dodatków dla poszczególnych samochodów
+
 • Przechowywanie informacji o klientach, samochodach i pracownikach
+
 • Dynamiczne dodawanie ról pracowników
+
 
 ![image](https://github.com/user-attachments/assets/4369a803-dd72-4082-a5a3-de6e65e1f0d9)
 ![image](https://github.com/user-attachments/assets/a48e9ceb-28f1-47e2-b4d3-f27c0e0dda18)
